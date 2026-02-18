@@ -428,3 +428,4 @@ For questions or support, please reach out through the GitHub repository.
 ---
 
 **Built with ❤️ using Flutter and Firebase**
+
