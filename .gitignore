@@ -44,10 +44,12 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Firebase config files (sensitive)
-/android/app/google-services.json
-# iOS Firebase config (if present)
-/ios/Runner/GoogleService-Info.plist
+# # Firebase config files (sensitive)
+# /android/app/google-services.json
+# # iOS Firebase config (if present)
+# /ios/Runner/GoogleService-Info.plist
+# .github/
+
 
 # Local machine / secrets
 local.properties
